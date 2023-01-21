@@ -4,7 +4,6 @@ Vector2f::Vector2f(): x(0), y(0) {}
 
 Vector2f::Vector2f(const int &rX, const int &rY)
 {
-    //Ploopy
     x = rX;
     y = rY;
 }
